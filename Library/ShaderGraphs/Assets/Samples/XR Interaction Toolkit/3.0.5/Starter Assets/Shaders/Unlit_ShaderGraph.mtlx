@@ -1,0 +1,43 @@
+<?xml version ="1.0"?>
+<materialx version = "1.38" colorspace = "lin_rec709">
+    <constant name = "_BaseColor" type = "color4">
+        <input name = "value" type = "color4" value = "0,0,0,0" />
+    </constant>
+    <dot name = "_1" type = "vector4">
+        <input name = "in" type = "vector4" nodename = "_8" />
+    </dot>
+    <extract name = "_2" type = "float">
+        <input name = "in" type = "vector4" nodename = "_1" />
+        <input name = "index" type = "integer" value = "0" />
+    </extract>
+    <extract name = "_3" type = "float">
+        <input name = "in" type = "vector4" nodename = "_1" />
+        <input name = "index" type = "integer" value = "1" />
+    </extract>
+    <extract name = "_4" type = "float">
+        <input name = "in" type = "vector4" nodename = "_1" />
+        <input name = "index" type = "integer" value = "2" />
+    </extract>
+    <extract name = "_5" type = "float">
+        <input name = "in" type = "vector4" nodename = "_1" />
+        <input name = "index" type = "integer" value = "3" />
+    </extract>
+    <GeometryModification name = "_6" type = "vertexshader">
+    </GeometryModification>
+    <realitykit_unlit name = "_7" type = "surfaceshader">
+        <input name = "applyPostProcessToneMap" type = "boolean" value = "false" />
+        <input name = "color" type = "color3" nodename = "_9" />
+    </realitykit_unlit>
+    <surfacematerial name = "USD_Unlit_ShaderGraph" type = "material">
+        <input name = "vertexshader" type = "vertexshader" nodename = "_6" />
+        <input name = "surfaceshader" type = "surfaceshader" nodename = "_7" />
+    </surfacematerial>
+    <swizzle name = "_8" type = "vector4">
+        <input name = "in" type = "color4" nodename = "_BaseColor" />
+        <input name = "channels" type = "string" value = "rgba" />
+    </swizzle>
+    <swizzle name = "_9" type = "color3">
+        <input name = "in" type = "color4" nodename = "_BaseColor" />
+        <input name = "channels" type = "string" value = "rgb" />
+    </swizzle>
+</materialx>

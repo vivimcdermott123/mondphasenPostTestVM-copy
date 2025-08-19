@@ -1,0 +1,53 @@
+Test
+Willkommen zur VR-Anwendung zu den Mondphasen. Das folgende Tutorial soll dir helfen, dich mit der Steuerung und den Menüs der Anwendung vertraut zu machen. Dazu wirst du in den nächsten Minuten das System aus Sonne, Erde und Mond erkunden. 
+Zum Anklicken kannst du einfach mit deiner virtuellen Hand auf den Weiter-Knopf fassen und diesen dann mit der Taste hinten an deinem Controller (s. Bild) auswählen. Probiere das gleich einmal aus, indem du auf "Weiter" klickst.
+Um das Menü zu aktivieren und deaktivieren, kannst auf einem der beiden Controller auf der Vorderseite den unteren Knopf drücken (s. Bild). Das kann sehr hilfreich sein, wenn dich das Menü im Sichtfeld stört. Probiere ein paar Mal das Menü zu schließen und wieder zu öffnen, bevor du auf "Weiter" klickst.
+Mit dem Joystick auf deinem linken Controller (s. Bild) kannst du zwischen zwei Perspektiven wechseln. Probiere denn Perspektivwechsel gerne einmal aus. Wenn du damit fertig bist, drücke auf "Weiter".
+Mit dem Joystick auf deinem rechten Controller (s. Bild) kannst du in der Anwendung zoomen. Probiere auch das einmal aus und klicke auf "Weiter", wenn du fertig bist.
+
+
+
+Mission 1
+
+
+
+Wie sieht der Mond von oben aus betrachtet aus?
+Das stimmt leider nicht. Klicke auf "Zurück", um nochmal zu antworten.
+Deine Antwort ist richtig. Du kannst jetzt auf "Weiter" klicken.
+
+Im Folgenden erklären wir dir den Ablauf zur Bestimmung der Mondphase. Dieser besteht aus vier Schritten, die du selbst später durchführen sollst.
+Schritt 1: Beschreibe welcher Teil des Mondes (und der Erde) von oben betrachtet dunkel erscheint.
+
+Schritt 2: Wie sieht eine Linie aus, die den Mond in folgende zwei Hälften teilt: Die Seite, die zur Erde gewandt ist und die Seite, die von der Erde weggewandt ist.
+
+Schritt 3: Beschreibe, wie die Seite des Mondes aussieht, die zur Erde zugewandt ist.
+
+Schritt 4: Nutze diese Sicht von oben, um dir vorzustellen, wie der Mond aus Perspektive der Erde aussieht. Ist die rechte oder die linke Seite des Mondes beleuchtet?
+
+Die Informationen aus den 4 Schritten können wir jetzt nutzen, um die Mondphase zu bestimmen. Wie sieht der Mond aus, wenn man ihn von der Erde (nördliche Hemisphäre) betrachtet?
+Diese Antwort ist leider nicht richtig. Bitte klicke auf "Zurück" und überdenke deine Antwort nochmal anhand der 4 Schritte.
+Perfekt! Deine Antwort war richtig.
+Bitte setzte jetzt kurz die Brille ab, da der nächste Teil auf einem Arbeitsblatt stattfindet. Wenn du mit dem Arbeitsblatt fertig bist und die Brille wieder aufgesetzt hast, klicke hier auf "Weiter".
+Mission 2
+Wie sieht der Mond von der Erde aus betrachtet aus? Du befindest dich auf der Erde in der nördlichen Hemisphäre. Durchlaufe die 4 Schritte (aus Mission 1) in deinem Kopf, um herauszufinden, wie der Mond von der Erde aus betrachtet aussieht. Markiere deine Antwort und klicke auf "Weiter".
+Diese Antwort ist leider nicht richtig. Bitte klicke auf "Zurück" und überdenke deine Antwort nochmal anhand der 4 Schritte.
+Perfekt! Deine Antwort war richtig.
+The application to the lunar phases is now complete. If you want, you can explore the solar system a little more. Are you done, then just put your VR glasses off.
+Which orbital position matches the lunar phase: New Moon?
+Which orbital position matches the lunar phase: Waxing Crescent?
+Which orbital position matches the lunar phase: First Quarter?
+Which orbital position matches the lunar phase: Waxing Gibbous?
+Which orbital position matches the lunar phase: Full Moon?
+Which orbital position matches the lunar phase: Waning Gibbous?
+Which orbital position matches the lunar phase: Last Quarter?
+Which orbital position matches the lunar phase: Waning Crescent?
+Test complete!
+Feedback for New Moon
+Feedback for Waxing Crescent
+Feedback for First Quarter
+Feedback for Waxing Gibbous
+Feedback for Full Moon
+Feedback for Waning Gibbous
+Feedback for Last Quarter
+Feedback for Waning Crescent
+Your final grade: [GRADE_PLACEHOLDER]
